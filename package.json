@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "dummy-json": "^1.0.1",
+    "jsonlint": "^1.6.2",
     "path": "^0.12.7"
   }
 }
